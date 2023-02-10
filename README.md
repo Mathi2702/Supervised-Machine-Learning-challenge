@@ -12,4 +12,4 @@ Create a Logistic Regression model, fit it to the training data that you created
 Then, Create a Random Forests Classifier model, fit it to the training data that you created in the previous step. Then, determine the model's score by using the score function and the testing data from the previous step.
 
 # Conclsion
-For the given data, Logistic Regression model performed better than the Random Forests Classifier.
+For the given data, Logistic Regression model performed better than the Random Forests Classifier model.
